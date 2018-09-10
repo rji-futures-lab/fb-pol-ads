@@ -65,7 +65,7 @@ This should initiate the creation of your virtual environment:
 pipenv shell
 ```
 
-### 6. Start a local jupyter notebook server
+### 7. Start a local jupyter notebook server
 
 ```
 jupyter notebook
